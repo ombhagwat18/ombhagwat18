@@ -10,18 +10,27 @@
 
 <br/>
 
+<p>
+  <a href="#-about-me--the-engineer-behind-the-machines">About</a> •
+  <a href="#-flagship-projects">Projects</a> •
+  <a href="#-full-tech-stack">Tech Stack</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-experience-timeline">Experience</a> •
+  <a href="#-contact--connect">Contact</a>
+</p>
+
 <!-- Social Badges -->
 <p>
   <a href="https://linkedin.com/in/ombhagwat18">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ombhagwat18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ombhagwat18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ombhagwat18&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -79,6 +88,12 @@ print(me.philosophy())
 ---
 
 ## 🚀 Flagship Projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Industrial%20AI-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Building%20in%20Public-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=for-the-badge" />
+</p>
 
 <details open>
 <summary><b>🍾 Smart Bottle Inspection System — BottleGuardPro</b></summary>
@@ -254,14 +269,14 @@ print(me.philosophy())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ombhagwat18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ombhagwat18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=ffffff&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=ombhagwat18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF&sideLabels=ffffff&dates=888888"/>
 
 </div>
 
@@ -270,7 +285,7 @@ print(me.philosophy())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ombhagwat18&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 ---
@@ -278,7 +293,7 @@ print(me.philosophy())
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FF6B35&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ombhagwat18&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FF6B35&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -358,6 +373,22 @@ print(me.philosophy())
 - 🤖 **Robotics Workshops** — Organized and participated in hands-on robotics sessions
 - 🏆 **Industrial Automation Projects** — Real-world PLC + AI integration at production scale
 - 🎯 **Internship** — Selected for Automation Department at Armstrong Dematic, Nashik
+
+---
+
+## 📬 Contact & Connect
+
+<div align="center">
+  <a href="mailto:ombhagwat18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ombhagwat18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ombhagwat18">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ombhagwat18">
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 

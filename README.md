@@ -84,16 +84,10 @@ My goal is simple: write clean code, build reliable robots, and grow into an eng
 
 </div>
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ombhagwat18&bg_color=1F242C&color=E6EDF3&line=39D0D8&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
-</p>
-
 <h2 align="center">⌘ Commit Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ombhagwat18/ombhagwat18/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph">
+  <img src="https://raw.githubusercontent.com/ombhagwat18/ombhagwat18/output-pacman/pacman-contribution-graph.svg" alt="Pac-Man contribution graph">
 </p>
 
 <h2 align="center">🧊 3D Contribution Blocks</h2>

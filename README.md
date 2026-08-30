@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/VYRXfjcnW8ULe8Fq3q/giphy.gif" width="260" alt="Robot arm illustration"/>
+<img align="right" src="./assets/yaskawa-gp12.jpg" width="320" alt="Yaskawa Motoman GP12 spec diagram"/>
 
 **Om**, here — a final-year Robotics & Automation Engineering student at K.K. Wagh Institute, Nashik.
 

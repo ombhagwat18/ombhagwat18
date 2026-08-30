@@ -28,6 +28,12 @@ My goal is simple: write clean code, build reliable robots, and grow into an eng
 
 <br clear="right"/>
 
+<h2 align="center">✦ ASCII Particle Field</h2>
+
+<p align="center">
+  <img src="./assets/ascii-motion.svg" alt="Animated swirling ASCII particle field" width="260">
+</p>
+
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
@@ -88,6 +94,16 @@ My goal is simple: write clean code, build reliable robots, and grow into an eng
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ombhagwat18/ombhagwat18/output-pacman/pacman-contribution-graph.svg" alt="Pac-Man contribution graph">
+</p>
+
+<h2 align="center">🐍 Snake Contribution Animation</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ombhagwat18/ombhagwat18/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ombhagwat18/ombhagwat18/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/ombhagwat18/ombhagwat18/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <h2 align="center">🧊 3D Contribution Blocks</h2>

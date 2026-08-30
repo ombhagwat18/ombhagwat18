@@ -114,13 +114,43 @@ My goal is simple: write clean code, build reliable robots, and grow into an eng
 
 <h2 align="center">🚀 Popular Repositories</h2>
 
-<p align="center">
-  <a href="https://github.com/ombhagwat18/Bottle_Defect_Detection_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ombhagwat18&repo=Bottle_Defect_Detection_System&theme=city_lights&hide_border=false"/></a>
-  <a href="https://github.com/ombhagwat18/VisionArch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ombhagwat18&repo=VisionArch&theme=city_lights&hide_border=false"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ombhagwat18/Camsnap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ombhagwat18&repo=Camsnap&theme=city_lights&hide_border=false"/></a>
-  <a href="https://github.com/ombhagwat18/OEE_software-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ombhagwat18&repo=OEE_software-&theme=city_lights&hide_border=false"/></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ombhagwat18/Bottle_Defect_Detection_System"><b>Bottle_Defect_Detection_System</b></a>
+      <br/>Bottle defect detection before dispatch, built for an Industry 4.0/5.0 line.
+      <br/>
+      <img src="https://img.shields.io/github/stars/ombhagwat18/Bottle_Defect_Detection_System?style=flat-square&color=2ea44f"/>
+      <img src="https://img.shields.io/github/languages/top/ombhagwat18/Bottle_Defect_Detection_System?style=flat-square"/>
+      <img src="https://img.shields.io/github/last-commit/ombhagwat18/Bottle_Defect_Detection_System?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ombhagwat18/VisionArch"><b>VisionArch</b></a>
+      <br/>AI-powered industrial computer vision workstation for benchmarking and selecting vision models.
+      <br/>
+      <img src="https://img.shields.io/github/stars/ombhagwat18/VisionArch?style=flat-square&color=2ea44f"/>
+      <img src="https://img.shields.io/github/languages/top/ombhagwat18/VisionArch?style=flat-square"/>
+      <img src="https://img.shields.io/github/last-commit/ombhagwat18/VisionArch?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ombhagwat18/Camsnap"><b>Camsnap</b></a>
+      <br/>Lightweight Python desktop app for computer-vision dataset creation (4K webcam, ROI cropping, OpenCV/Tkinter).
+      <br/>
+      <img src="https://img.shields.io/github/stars/ombhagwat18/Camsnap?style=flat-square&color=2ea44f"/>
+      <img src="https://img.shields.io/github/languages/top/ombhagwat18/Camsnap?style=flat-square"/>
+      <img src="https://img.shields.io/github/last-commit/ombhagwat18/Camsnap?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ombhagwat18/OEE_software-"><b>OEE_software-</b></a>
+      <br/>Enterprise-grade Overall Equipment Effectiveness (OEE) platform with a Six Big Losses TPM matrix and live dashboard.
+      <br/>
+      <img src="https://img.shields.io/github/stars/ombhagwat18/OEE_software-?style=flat-square&color=2ea44f"/>
+      <img src="https://img.shields.io/github/languages/top/ombhagwat18/OEE_software-?style=flat-square"/>
+      <img src="https://img.shields.io/github/last-commit/ombhagwat18/OEE_software-?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Proudly inspired by GPRM-style profile README architecture -->

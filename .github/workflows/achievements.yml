@@ -12,7 +12,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Skip when metrics token is not configured
+        if: ${{ secrets.METRICS_TOKEN == '' }}
+        run: echo "::notice::Skipping achievements metrics generation because METRICS_TOKEN is not configured."
+
       - uses: lowlighter/metrics@latest
+        if: ${{ secrets.METRICS_TOKEN != '' }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: achievements.svg
